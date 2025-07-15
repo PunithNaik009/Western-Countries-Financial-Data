@@ -1,3 +1,4 @@
+![Dashboard Banner](dashboard-banner.png.png)
 📊 Western Countries Financial Dashboard – Capstone Project
 An end-to-end business analytics solution developed using Excel, SQL Server, Power BI, and presented via PowerPoint, focused on uncovering key sales and profit drivers across Western markets.
 
